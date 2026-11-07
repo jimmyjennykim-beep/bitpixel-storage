@@ -5,7 +5,7 @@
    "name": "Doppel",
    "desc": "도플갱어를 추가합니다!\n\n기본 사용법\nF8을 눌러 새로운 플레이어를 소환할 수 있습니다\n커스텀 스킨을 사용해 플레이어를 꾸미거나 플레이어에게 접속하여 조종할 수 있습니다\n스킨을 저장하고 불러올 수 있습니다\n\n아직 데모 버전이라 모드 호환성이 좋지 않습니다.\n호환되지 않거나 호환되는 걸 원하는 모드는 댓글에 적어주세요 >w<",
    "created": "2026-11-07T06:18:34.770Z",
-   "updated": "2026-11-07T06:18:38.415Z",
+   "updated": "2026-11-07T06:18:41.526Z",
    "versions": [
     {
      "v": "1.3.0",
@@ -13,7 +13,20 @@
      "date": "2026-11-07T06:18:38.415Z",
      "releaseId": 437383837,
      "tag": "doppel-v1.3.0",
-     "files": []
+     "files": [
+      {
+       "assetId": 719828553,
+       "name": "doppel-1.3.0.jar",
+       "size": 141927,
+       "url": "https://github.com/jimmyjennykim-beep/bitpixel-storage/releases/download/doppel-v1.3.0/doppel-1.3.0.jar",
+       "loader": "Forge",
+       "mc": [
+        "1.20.1"
+       ],
+       "date": "2026-11-07T06:18:41.526Z",
+       "downloads": 0
+      }
+     ]
     }
    ]
   }
