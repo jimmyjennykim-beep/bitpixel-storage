@@ -35,7 +35,7 @@
    "name": "Lash",
    "desc": "밧줄을 추가합니다!\n적을 묶고 낚아챌 수 있습니다!\n실제로 물리엔진이 적용된 밧줄이라 퀄리티가 높으면서도 약간 어수선한 부분이 있긴 합니다만 이 모드도 사랑해주세요\n(싸움 위주의 기능입니다)",
    "created": "2026-11-07T06:21:37.368Z",
-   "updated": "2026-11-07T06:21:40.557Z",
+   "updated": "2026-11-07T06:21:43.666Z",
    "versions": [
     {
      "v": "1.0.1",
@@ -43,7 +43,20 @@
      "date": "2026-11-07T06:21:40.557Z",
      "releaseId": 437385127,
      "tag": "lash-v1.0.1",
-     "files": []
+     "files": [
+      {
+       "assetId": 719835264,
+       "name": "lash-1.0.1.jar",
+       "size": 384572,
+       "url": "https://github.com/jimmyjennykim-beep/bitpixel-storage/releases/download/lash-v1.0.1/lash-1.0.1.jar",
+       "loader": "Forge",
+       "mc": [
+        "1.20.1"
+       ],
+       "date": "2026-11-07T06:21:43.666Z",
+       "downloads": 0
+      }
+     ]
     }
    ]
   }
