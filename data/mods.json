@@ -305,7 +305,7 @@
    "name": "HOHOHO! Santa",
    "desc": "메리 크리스마스! ...라고 하기엔 너무 일렀나?\n산타를 추가합니다!",
    "created": "2026-11-07T06:53:46.565Z",
-   "updated": "2026-11-07T06:53:50.683Z",
+   "updated": "2026-11-07T06:53:54.048Z",
    "versions": [
     {
      "v": "0.5.4",
@@ -313,7 +313,20 @@
      "date": "2026-11-07T06:53:50.683Z",
      "releaseId": 437398545,
      "tag": "hohoho-santa-v0.5.4",
-     "files": []
+     "files": [
+      {
+       "assetId": 719903818,
+       "name": "HOHOHO-santa-1.20.1-forge-0.5.4.jar",
+       "size": 357686,
+       "url": "https://github.com/jimmyjennykim-beep/bitpixel-storage/releases/download/hohoho-santa-v0.5.4/HOHOHO-santa-1.20.1-forge-0.5.4.jar",
+       "loader": "Forge",
+       "mc": [
+        "1.20.1"
+       ],
+       "date": "2026-11-07T06:53:54.048Z",
+       "downloads": 0
+      }
+     ]
     }
    ]
   }
