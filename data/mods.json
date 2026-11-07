@@ -65,7 +65,7 @@
    "name": "Kirby",
    "desc": "커비를 추가합니다! 카피능력은 19개가 있고 아쉽지만 업데이트는 멈췄습니다! 죄송합니다!",
    "created": "2026-11-07T06:30:59.277Z",
-   "updated": "2026-11-07T06:31:02.314Z",
+   "updated": "2026-11-07T06:31:05.333Z",
    "versions": [
     {
      "v": "0.1.0",
@@ -73,7 +73,20 @@
      "date": "2026-11-07T06:31:02.314Z",
      "releaseId": 437389133,
      "tag": "kirby-v0.1.0",
-     "files": []
+     "files": [
+      {
+       "assetId": 719856344,
+       "name": "kirby-0.1.0.jar",
+       "size": 391738,
+       "url": "https://github.com/jimmyjennykim-beep/bitpixel-storage/releases/download/kirby-v0.1.0/kirby-0.1.0.jar",
+       "loader": "Forge",
+       "mc": [
+        "1.20.1"
+       ],
+       "date": "2026-11-07T06:31:05.333Z",
+       "downloads": 0
+      }
+     ]
     }
    ]
   }
