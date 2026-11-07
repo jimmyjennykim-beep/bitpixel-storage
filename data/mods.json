@@ -389,7 +389,7 @@
    "name": "Ocean Waves",
    "desc": "물리 모드의 파도를 거의 그대로 재현 성공했습니다!!",
    "created": "2026-11-07T09:10:42.223Z",
-   "updated": "2026-11-07T09:10:46.157Z",
+   "updated": "2026-11-07T09:10:49.612Z",
    "versions": [
     {
      "v": "0.5.0",
@@ -397,7 +397,20 @@
      "date": "2026-11-07T09:10:46.157Z",
      "releaseId": 437460833,
      "tag": "ocean-waves-v0.5.0",
-     "files": []
+     "files": [
+      {
+       "assetId": 720192358,
+       "name": "oceanwaves-0.5.0.jar",
+       "size": 127014,
+       "url": "https://github.com/jimmyjennykim-beep/bitpixel-storage/releases/download/ocean-waves-v0.5.0/oceanwaves-0.5.0.jar",
+       "loader": "Forge",
+       "mc": [
+        "1.20.1"
+       ],
+       "date": "2026-11-07T09:10:49.612Z",
+       "downloads": 0
+      }
+     ]
     }
    ]
   }
