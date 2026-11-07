@@ -95,7 +95,7 @@
    "name": "Desk Setup",
    "desc": "데스크 셋업! 마우스, 핸드폰을 추가합니다! 키보드와 컴퓨터도 있지만 장식용이고 마우스와 핸드폰만 보면 됩니다!\n마우스로는 윈도우처럼 몹이나 블럭을 끌고 던질 수 있고 물론 삭제나 값 수정도 가능합니다!\n핸드폰은 메세지, 핵폭탄, 공습, 음악 등의 기능이 있으며 Doppel 모드와 호환됩니다!",
    "created": "2026-11-07T06:33:55.786Z",
-   "updated": "2026-11-07T06:33:59.181Z",
+   "updated": "2026-11-07T06:34:03.048Z",
    "versions": [
     {
      "v": "0.6.0",
@@ -103,7 +103,20 @@
      "date": "2026-11-07T06:33:59.181Z",
      "releaseId": 437390341,
      "tag": "desk-setup-v0.6.0",
-     "files": []
+     "files": [
+      {
+       "assetId": 719862463,
+       "name": "desksetup-0.6.0.jar",
+       "size": 576067,
+       "url": "https://github.com/jimmyjennykim-beep/bitpixel-storage/releases/download/desk-setup-v0.6.0/desksetup-0.6.0.jar",
+       "loader": "Forge",
+       "mc": [
+        "1.20.1"
+       ],
+       "date": "2026-11-07T06:34:03.048Z",
+       "downloads": 0
+      }
+     ]
     }
    ]
   }
