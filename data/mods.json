@@ -125,7 +125,7 @@
    "name": "Spectacle",
    "desc": "매우 뛰어난 컷씬 퀄리티를 자랑하는 Spectacle입니다!",
    "created": "2026-11-07T06:40:11.266Z",
-   "updated": "2026-11-07T06:40:14.772Z",
+   "updated": "2026-11-07T06:40:27.233Z",
    "versions": [
     {
      "v": "0.11.0",
@@ -133,7 +133,20 @@
      "date": "2026-11-07T06:40:14.772Z",
      "releaseId": 437392955,
      "tag": "spectacle-v0.11.0",
-     "files": []
+     "files": [
+      {
+       "assetId": 719875489,
+       "name": "spectacle-0.11.0.jar",
+       "size": 42175307,
+       "url": "https://github.com/jimmyjennykim-beep/bitpixel-storage/releases/download/spectacle-v0.11.0/spectacle-0.11.0.jar",
+       "loader": "Forge",
+       "mc": [
+        "1.20.1"
+       ],
+       "date": "2026-11-07T06:40:27.233Z",
+       "downloads": 0
+      }
+     ]
     }
    ]
   }
