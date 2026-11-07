@@ -64,7 +64,13 @@
       }
      ]
     }
-   ]
+   ],
+   "image": {
+    "path": "images/lash-3e78fb9e.jpg",
+    "url": "https://raw.githubusercontent.com/jimmyjennykim-beep/bitpixel-storage/451256f2fc97661ee97fb0b27f5a47a6a15a18dd/images/lash-3e78fb9e.jpg",
+    "w": 1200,
+    "h": 750
+   }
   },
   {
    "id": "kirby",
