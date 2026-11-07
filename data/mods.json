@@ -340,7 +340,13 @@
       }
      ]
     }
-   ]
+   ],
+   "image": {
+    "path": "images/symbiote-1bb28506.jpg",
+    "url": "https://raw.githubusercontent.com/jimmyjennykim-beep/bitpixel-storage/baebd4befc21022affbe51ecec5e6275771e2993/images/symbiote-1bb28506.jpg",
+    "w": 1200,
+    "h": 750
+   }
   },
   {
    "id": "hohoho-santa",
