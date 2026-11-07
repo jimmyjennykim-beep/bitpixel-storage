@@ -130,7 +130,13 @@
       }
      ]
     }
-   ]
+   ],
+   "image": {
+    "path": "images/desk-setup-5e398ff5.jpg",
+    "url": "https://raw.githubusercontent.com/jimmyjennykim-beep/bitpixel-storage/95ebe48ee5b805b3ec6910f022b333efc2cee950/images/desk-setup-5e398ff5.jpg",
+    "w": 1200,
+    "h": 750
+   }
   },
   {
    "id": "spectacle",
