@@ -275,7 +275,7 @@
    "name": "Symbiote",
    "desc": "심비오트를 추가합니다!(베놈만 추가함)",
    "created": "2026-11-07T06:52:28.491Z",
-   "updated": "2026-11-07T06:52:31.870Z",
+   "updated": "2026-11-07T06:52:34.999Z",
    "versions": [
     {
      "v": "0.7.5",
@@ -283,7 +283,20 @@
      "date": "2026-11-07T06:52:31.870Z",
      "releaseId": 437397939,
      "tag": "symbiote-v0.7.5",
-     "files": []
+     "files": [
+      {
+       "assetId": 719901508,
+       "name": "symbiote-0.7.5.jar",
+       "size": 439934,
+       "url": "https://github.com/jimmyjennykim-beep/bitpixel-storage/releases/download/symbiote-v0.7.5/symbiote-0.7.5.jar",
+       "loader": "Forge",
+       "mc": [
+        "1.20.1"
+       ],
+       "date": "2026-11-07T06:52:34.999Z",
+       "downloads": 0
+      }
+     ]
     }
    ]
   }
