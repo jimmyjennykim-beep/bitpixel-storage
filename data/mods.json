@@ -119,6 +119,14 @@
      ]
     }
    ]
+  },
+  {
+   "id": "spectacle",
+   "name": "Spectacle",
+   "desc": "매우 뛰어난 컷씬 퀄리티를 자랑하는 Spectacle입니다!",
+   "created": "2026-11-07T06:40:11.266Z",
+   "updated": "2026-11-07T06:40:11.266Z",
+   "versions": []
   }
  ]
 }
