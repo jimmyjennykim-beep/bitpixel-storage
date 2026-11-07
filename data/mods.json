@@ -185,7 +185,7 @@
    "name": "Ghost Rider",
    "desc": "고스트 라이더를 추가합니다! 계약서를 들고 우클릭하면 됩니다! 마블 모드중 스킬이 가장 많습니다!",
    "created": "2026-11-07T06:47:54.676Z",
-   "updated": "2026-11-07T06:47:58.071Z",
+   "updated": "2026-11-07T06:48:01.416Z",
    "versions": [
     {
      "v": "0.5.5",
@@ -193,7 +193,20 @@
      "date": "2026-11-07T06:47:58.071Z",
      "releaseId": 437396068,
      "tag": "ghost-rider-v0.5.5",
-     "files": []
+     "files": [
+      {
+       "assetId": 719891445,
+       "name": "ghostrider-1.20.1-0.5.5.jar",
+       "size": 1279257,
+       "url": "https://github.com/jimmyjennykim-beep/bitpixel-storage/releases/download/ghost-rider-v0.5.5/ghostrider-1.20.1-0.5.5.jar",
+       "loader": "Forge",
+       "mc": [
+        "1.20.1"
+       ],
+       "date": "2026-11-07T06:48:01.416Z",
+       "downloads": 0
+      }
+     ]
     }
    ]
   }
