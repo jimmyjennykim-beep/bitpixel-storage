@@ -304,7 +304,13 @@
       }
      ]
     }
-   ]
+   ],
+   "image": {
+    "path": "images/doctor-strange-098da875.jpg",
+    "url": "https://raw.githubusercontent.com/jimmyjennykim-beep/bitpixel-storage/871648047048c05e3ebbacafd2897a7624737853/images/doctor-strange-098da875.jpg",
+    "w": 1200,
+    "h": 750
+   }
   },
   {
    "id": "symbiote",
