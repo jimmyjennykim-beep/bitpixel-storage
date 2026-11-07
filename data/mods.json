@@ -145,18 +145,6 @@
        ],
        "date": "2026-11-07T06:40:27.233Z",
        "downloads": 0
-      },
-      {
-       "assetId": 719876871,
-       "name": "HOHOHO-santa-1.20.1-forge-0.5.4.jar",
-       "size": 357686,
-       "url": "https://github.com/jimmyjennykim-beep/bitpixel-storage/releases/download/spectacle-v0.11.0/HOHOHO-santa-1.20.1-forge-0.5.4.jar",
-       "loader": "Forge",
-       "mc": [
-        "1.20.1"
-       ],
-       "date": "2026-11-07T06:41:07.775Z",
-       "downloads": 0
       }
      ]
     }
