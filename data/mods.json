@@ -232,7 +232,13 @@
       }
      ]
     }
-   ]
+   ],
+   "image": {
+    "path": "images/ghost-rider-158454c4.jpg",
+    "url": "https://raw.githubusercontent.com/jimmyjennykim-beep/bitpixel-storage/3d4e9aefff745062150df71a0face3b4ad742be3/images/ghost-rider-158454c4.jpg",
+    "w": 1200,
+    "h": 750
+   }
   },
   {
    "id": "hulk",
