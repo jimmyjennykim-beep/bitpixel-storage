@@ -7,7 +7,7 @@
    "date": "2026-11-07T06:25:28.552Z",
    "admin": true,
    "heart": false,
-   "pinned": false,
+   "pinned": true,
    "delHash": null
   }
  ]
