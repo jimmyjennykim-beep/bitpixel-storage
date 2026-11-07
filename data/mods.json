@@ -155,7 +155,7 @@
    "name": "Iron man",
    "desc": "아이언맨 마크 5, 마크 3을 추가합니다! 장착 퀄리티가 약간 아쉬울 수 있지만 손맛은 보장합니다!",
    "created": "2026-11-07T06:46:43.158Z",
-   "updated": "2026-11-07T06:46:46.201Z",
+   "updated": "2026-11-07T06:46:49.085Z",
    "versions": [
     {
      "v": "0.7.0",
@@ -163,7 +163,20 @@
      "date": "2026-11-07T06:46:46.201Z",
      "releaseId": 437395630,
      "tag": "iron-man-v0.7.0",
-     "files": []
+     "files": [
+      {
+       "assetId": 719889067,
+       "name": "armorprotocol-0.7.0.jar",
+       "size": 1129757,
+       "url": "https://github.com/jimmyjennykim-beep/bitpixel-storage/releases/download/iron-man-v0.7.0/armorprotocol-0.7.0.jar",
+       "loader": "Forge",
+       "mc": [
+        "1.20.1"
+       ],
+       "date": "2026-11-07T06:46:49.085Z",
+       "downloads": 0
+      }
+     ]
     }
    ]
   }
