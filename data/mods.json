@@ -125,8 +125,17 @@
    "name": "Spectacle",
    "desc": "매우 뛰어난 컷씬 퀄리티를 자랑하는 Spectacle입니다!",
    "created": "2026-11-07T06:40:11.266Z",
-   "updated": "2026-11-07T06:40:11.266Z",
-   "versions": []
+   "updated": "2026-11-07T06:40:14.772Z",
+   "versions": [
+    {
+     "v": "0.11.0",
+     "notes": "",
+     "date": "2026-11-07T06:40:14.772Z",
+     "releaseId": 437392955,
+     "tag": "spectacle-v0.11.0",
+     "files": []
+    }
+   ]
   }
  ]
 }
