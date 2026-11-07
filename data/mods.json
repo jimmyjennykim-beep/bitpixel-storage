@@ -215,7 +215,7 @@
    "name": "Hulk",
    "desc": "헐크를 추가합니다! 감마 혈청을 맞으면 헐크가 될 수 있습니다!",
    "created": "2026-11-07T06:49:02.262Z",
-   "updated": "2026-11-07T06:49:05.653Z",
+   "updated": "2026-11-07T06:49:09.234Z",
    "versions": [
     {
      "v": "0.1.0",
@@ -223,7 +223,20 @@
      "date": "2026-11-07T06:49:05.653Z",
      "releaseId": 437396542,
      "tag": "hulk-v0.1.0",
-     "files": []
+     "files": [
+      {
+       "assetId": 719894026,
+       "name": "hulk-0.1.0.jar",
+       "size": 386225,
+       "url": "https://github.com/jimmyjennykim-beep/bitpixel-storage/releases/download/hulk-v0.1.0/hulk-0.1.0.jar",
+       "loader": "Forge",
+       "mc": [
+        "1.20.1"
+       ],
+       "date": "2026-11-07T06:49:09.234Z",
+       "downloads": 0
+      }
+     ]
     }
    ]
   }
