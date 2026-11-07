@@ -376,7 +376,13 @@
       }
      ]
     }
-   ]
+   ],
+   "image": {
+    "path": "images/hohoho-santa-ca10cbdd.jpg",
+    "url": "https://raw.githubusercontent.com/jimmyjennykim-beep/bitpixel-storage/80a3211564d13ec27724e0fa10d8a17b0477f731/images/hohoho-santa-ca10cbdd.jpg",
+    "w": 1200,
+    "h": 750
+   }
   }
  ]
 }
