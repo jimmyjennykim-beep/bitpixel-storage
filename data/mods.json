@@ -196,7 +196,13 @@
       }
      ]
     }
-   ]
+   ],
+   "image": {
+    "path": "images/iron-man-3f7d3463.jpg",
+    "url": "https://raw.githubusercontent.com/jimmyjennykim-beep/bitpixel-storage/122b125957d24b17f22b605e76b226d95f1aee7a/images/iron-man-3f7d3463.jpg",
+    "w": 1200,
+    "h": 750
+   }
   },
   {
    "id": "ghost-rider",
