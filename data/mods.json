@@ -245,7 +245,7 @@
    "name": "Doctor Strange",
    "desc": "닥터 스트레인지 모드를 추가합니다! 아쉽게도 업데이트는 멈췄지만 마법 7개가 들어가 있습니다!(미러 디멘션이 없다는 게 함정..)",
    "created": "2026-11-07T06:50:21.558Z",
-   "updated": "2026-11-07T06:50:24.910Z",
+   "updated": "2026-11-07T06:50:28.056Z",
    "versions": [
     {
      "v": "0.5.0",
@@ -253,7 +253,20 @@
      "date": "2026-11-07T06:50:24.910Z",
      "releaseId": 437397139,
      "tag": "doctor-strange-v0.5.0",
-     "files": []
+     "files": [
+      {
+       "assetId": 719897138,
+       "name": "sorcerer-0.5.0.jar",
+       "size": 336075,
+       "url": "https://github.com/jimmyjennykim-beep/bitpixel-storage/releases/download/doctor-strange-v0.5.0/sorcerer-0.5.0.jar",
+       "loader": "Forge",
+       "mc": [
+        "1.20.1"
+       ],
+       "date": "2026-11-07T06:50:28.056Z",
+       "downloads": 0
+      }
+     ]
     }
    ]
   }
