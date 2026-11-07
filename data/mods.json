@@ -28,7 +28,13 @@
       }
      ]
     }
-   ]
+   ],
+   "image": {
+    "path": "images/doppel-27414bde.jpg",
+    "url": "https://raw.githubusercontent.com/jimmyjennykim-beep/bitpixel-storage/08fea9fe6f75e9dc40d073bcbc193cec8f4b3857/images/doppel-27414bde.jpg",
+    "w": 1200,
+    "h": 750
+   }
   },
   {
    "id": "lash",
