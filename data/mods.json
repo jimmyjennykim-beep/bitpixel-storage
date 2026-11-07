@@ -268,7 +268,13 @@
       }
      ]
     }
-   ]
+   ],
+   "image": {
+    "path": "images/hulk-c79fc9a0.jpg",
+    "url": "https://raw.githubusercontent.com/jimmyjennykim-beep/bitpixel-storage/1a95398b77ed7c7f5f0ffe73cae80eaabb49c6f7/images/hulk-c79fc9a0.jpg",
+    "w": 1200,
+    "h": 750
+   }
   },
   {
    "id": "doctor-strange",
